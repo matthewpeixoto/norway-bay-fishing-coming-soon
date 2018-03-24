@@ -2517,7 +2517,7 @@ legend {
 html {
   min-width: 320px;
 
-  font-family: brother-1816, sans-serif;
+  font-family: "brother-1816", serif;
   font-weight: 900;
   color: #fff;
 
@@ -2533,21 +2533,6 @@ html {
 h1,
 h2 {
   font-weight: 900;
-}
-
-.nav {
-  background-color: var(--color-brand);
-
-  color: #fff;
-}
-
-.nav a {
-  color: #fff;
-  text-decoration: none;
-}
-
-.nav a:hover {
-  opacity: .65;
 }
 
 

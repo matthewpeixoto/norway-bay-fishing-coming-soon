@@ -1,0 +1,14 @@
+.nav {
+  background-color: var(--color-brand);
+
+  color: #fff;
+}
+
+.nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.nav a:hover {
+  opacity: .65;
+}
